@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="weather_fetch_error">Unable to fetch weather</string>
+</resources>
